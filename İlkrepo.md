@@ -8,7 +8,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde ürünümüz ilk repo. İçerisinde bir
 
 
 Bağlantı:
-
+https://github.com/cheonsa35/ilkrepokodluyoruz
 
 
 
